@@ -1,0 +1,144 @@
+/* GENERAL */
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	font-family: Arial, sans-serif;
+	font-size: 15px; 
+}
+
+.logo 
+{
+	background-image: url(images/logo_small.png);
+}
+
+.wrapper
+{
+	width: 940px;
+	margin: 0px auto;
+	padding: 0px 10px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+h1,h2,h3,h4
+{
+	color: #444;
+}
+
+h1
+{
+	font-family: 'Crete Round', serif;
+	font-size: 45px;
+}
+
+h2
+{
+	font-size: 55px;
+}
+
+h3
+{
+	font-size: 30px
+}
+
+h4
+{
+	font-size: 24px
+}
+
+p
+{
+	line-height: 20px;
+	color: #777;
+}
+
+small
+{
+	font-size: 13px;
+	font-style: italic;
+}
+
+ul
+{
+	list-style: none;
+}
+
+a
+{
+	text-decoration: none;
+	color: #444
+}
+
+.orange
+{
+	color: #ff7a00;
+}
+
+
+/* HEADER */
+
+header
+{
+	height: 120px;
+}
+
+header h1
+{
+	float: left;
+	margin-top: 32px;
+}
+
+header nav
+{
+	float: right;
+	margin-top: 50px;
+}
+
+header nav ul li
+{
+	display: inline-block;
+	margin-right: 20px;
+	float: left;
+}
+
+header nav ul li a
+{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+header nav ul li a:hover
+{
+	color: #ff7a00;
+}
+
+
+/* FOOTER */
+
+footer
+{
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+	color: #fff;
+}
+
+footer h1
+{
+	padding-top: 60px;
+	color: #fff;
+}
+
+.copyright
+{
+	padding-top: 30px;
+}
