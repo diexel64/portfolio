@@ -174,13 +174,6 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	/* Paragraphs */
-
-	p.saga-intro {
-		font-style: italic;
-		text-align: center;
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
@@ -305,6 +298,11 @@ input, select, textarea {
 
 	.align-right {
 		text-align: right;
+	}
+
+	.saga-intro {
+		font-style: italic;
+		text-align: center;
 	}
 
 /* Form */
