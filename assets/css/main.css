@@ -300,6 +300,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Paragraphs */
+
+	.saga-intro {
+		font-style: italic;
+	}
+
 /* Form */
 
 	form {
