@@ -55,6 +55,11 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+#saga-intro {
+	text-align: center;
+	font-style: italic;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
