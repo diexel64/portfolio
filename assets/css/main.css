@@ -300,7 +300,7 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	.saga-intro {
+	#saga-intro {
 		font-style: italic;
 		text-align: center;
 	}
